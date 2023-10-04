@@ -1,3 +1,5 @@
+[![An image of @ash0508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash0508)](https://holopin.io/@ash0508)
+
 ![logo](https://github.com/Ash0508/Ash0508/blob/main/Programming%20and%20coding%20Instagram%20Post%20.png)
 <h1 align="center">Hi 👋, I'm Ankush Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -31,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash0508&show_icons=true&locale=en" alt="ash0508" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash0508&" alt="ash0508" /></p>
+
+
