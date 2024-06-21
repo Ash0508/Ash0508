@@ -27,6 +27,7 @@
   <a href="https://www.codechef.com/users/ankush_0508" target="blank"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/></a>
   <a href="https://www.hackerrank.com/ankush_0508" target="blank"><img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/></a>
   <a href="https://www.leetcode.com/ankush0508" target="blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/></a>
+   <a href="https://www.naukri.com/code360/profile/luvkush0805" target="blank"><img src="https://img.shields.io/badge/CodingNinjas-cyan?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodingNinjas Badge"/></a>
 </p>
 
 ---
