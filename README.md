@@ -1,57 +1,87 @@
 [![An image of @ash0508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash0508)](https://holopin.io/@ash0508)
 
-<h1 align="center">Hi 👋, I'm Ankush Singh</h1>
-<h3 align="center">A passionate web developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ash0508&label=Profile%20views&color=0e75b6&style=flat" alt="ash0508" /> </p>
-
-- 🌱 I’m currently learning **MERN stack, web development, Computer Networks, and Compiler Design**
-
-- 👨‍💻 Check out my first website: [My First Domain Website](https://myfirstdomainwebeesite.netlify.app/)
-
-- 📫 Reach me at **singhankush0508@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/ankush_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankush_singh" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ankush_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush_singh" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/ankush_0508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankush_0508" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/ankush_0508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankush_0508" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ankush0508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankush0508" height="30" width="40" /></a>
+<h1 align="center">Hi there, I'm Ankush Singh 👋</h1>
+<p align="center">
+  <em>Passionate Developer | Tech Enthusiast | Lifelong Learner</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/ankush_singh" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/ankush_singh" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/ankush_0508" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="40" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/ankush_0508" target="_blank">
+    <img align="center" src="https://hrtechfeed.com/wp-content/uploads/2019/11/hackerrank-logo.png" alt="HackerRank" height="40" width="80"/>
+  </a>
+  <a href="https://www.leetcode.com/ankush0508" target="_blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="40" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">My Projects:</h3>
-<p align="left">
-  <a href="https://github.com/ash0508/Project1" target="_blank"><img src="https://img.shields.io/badge/Project1-FE7A16?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" /></a>
-  <a href="https://github.com/ash0508/Project2" target="_blank"><img src="https://img.shields.io/badge/Project2-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" /></a>
-  <a href="https://github.com/ash0508/Project3" target="_blank"><img src="https://img.shields.io/badge/Project3-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Project 3" /></a>
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ash0508&show_icons=true&locale=en&layout=compact" alt="ash0508" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash0508&show_icons=true&locale=en" alt="ash0508" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash0508&" alt="ash0508" /></p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ankushsingh" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a></p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ash0508&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash0508&" alt="Streak Stats" />
+</p>
+
+
+---
+
+<p align="center">
+  <strong>Visitor Count:</strong><br>
+  <img src="https://profile-counter.glitch.me/ash0508/count.svg" />
+</p>
+
+---
+
+### 🚀 About Me
+
+Hello! I'm Ankush, a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow. Whether it's coding, debugging, or collaborating on projects, I thrive on the challenges and opportunities that come my way.
+
+Here are a few things about me:
+- 💻 I specialize in **JavaScript**, **React**, **MongoDB**, and **Flutter**.
+- 🌱 Currently learning about cloud technologies and improving my skills in backend development.
+- 🎨 I love working on open-source projects and contributing to the developer community.
+- 📚 In my free time, I enjoy reading tech blogs, exploring new tools, and keeping up with the latest trends in software development.
+
+Feel free to connect with me on any of the platforms above. Let's collaborate and make something amazing together!
